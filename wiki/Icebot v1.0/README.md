@@ -4,6 +4,8 @@ En esta versión se eliminan las grapas y se incorpora la posibilidad de atornil
 Tambien se ha modificado un soporte para la Alhambra donde se añadieron 2 tiras en las que poder pegar un trozo de velcro y poder sujetar la electronica sin
 necesidad de utilizar las gomas elásticas.
 
+Esta versión esta diseñada para hacer del Icebot un robot por bloques pudiendo añadir o quitar bloques con solo 2 tornillos y segun nuestras necesidades.
+
 
 ## Comenzemos!!! 🚀
 
