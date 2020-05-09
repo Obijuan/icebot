@@ -48,6 +48,29 @@ Una vez montado nuestro robot imprimible Icebot, debemos ponerle unos cachitos d
   Una cosa a tener en cuenta es que la ruedas del Printbot están diseñadas para montarse del reves, es decir el soporte que atornilla en el servo, tiene que estan en la parte interior, por lo que desde fuera solo veremos la llanta y no el soporte.
   Esto se hizo asi, para darle un poco mas de anchura al robot, y poder mas espacio para la electrónica.
   
+  
+  # Accesorios para el Icebot!!! 🚀
+  
+  ## -Accesorio para poner sensores.
+  
+  Este accesorio tiene unos agujeros para poder colocar diferentes tipos de sensores en varios puntos, se coloca una turca de metrica 3 por la parte trasera y se atornilla.
+  
+  <p align="center">
+  <img src="https://github.com/altenife/icebot/blob/master/wiki/Icebot%20v1.0/Accesorio%20sensores%20icebot%201.jpg"></p>
+  <p align="center">
+<p align="center">
+  <img src="https://github.com/altenife/icebot/blob/master/wiki/Icebot%20v1.0/Accesorio%20sensores%20icebot%202.jpg"></p>
+  <p align="center">
+  
+## Accesorio para poner una Power Bank de 2600mAh de 25x25cm 
+
+Accesorio para poner una power Bank en el icebot que mida 25x25 cm
+
+<p align="center">
+  <img src="https://github.com/altenife/icebot/blob/master/wiki/Icebot%20v1.0/Icebot%20v1.0%20(1).jpg"></p>
+  <p align="center">
+
+ 
 
 ## Construido con 🛠️
 
